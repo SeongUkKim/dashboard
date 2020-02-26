@@ -21,7 +21,7 @@
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
 <script type="text/javascript" src="/map_test/leaflet-echarts-master/src/leaflet-echarts.js"></script>
 <script type="text/javascript" src="/map_test/leaflet-echarts-master/lib/echarts.source.js"></script>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=" ></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=keyvalue" ></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src='https://unpkg.com/leaflet.gridlayer.googlemutant@latest/Leaflet.GoogleMutant.js'></script>
 
